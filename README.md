@@ -1,6 +1,6 @@
 # DSCI 590 Data Visualization Course
 
-Welcome to the DSCI 590 Data Visualization Course repository! This course, taught by Professor Yong-Yeol (YY) Ahn, covers various aspects of data visualization, focusing on understanding visualization tools, perception, design principles, and more.
+This course, taught by Professor Yong-Yeol (YY) Ahn, covers various aspects of data visualization, focusing on understanding visualization tools, perception, design principles, and more.
 
 ## Course Details
 
