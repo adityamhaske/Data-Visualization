@@ -38,5 +38,5 @@ This repository contains the course materials, lectures, assignments, and resour
 
 ### Additional Information
 
-Please note that this README file is a brief overview. For detailed information about each module, assignment, lecture, and project, refer to the respective folders and files within this repository.
+Please note that this README file is a brief overview. For detailed information about each module, assignment, lecture, and project, please take a look at this repository's folders and files.
 
